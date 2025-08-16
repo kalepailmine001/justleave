@@ -1,0 +1,3 @@
+name: bash-command
+runtime: nodejs
+description: "Run a bash command via Pulumi"
