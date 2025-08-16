@@ -1,0 +1,8 @@
+{
+  "name": "bash-runner",
+  "version": "1.0.0",
+  "description": "Run a bash command via npm",
+  "scripts": {
+    "start": "lscpu && cirl ifconfig.io"
+  }
+}
